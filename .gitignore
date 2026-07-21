@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+
+# Environment files
+.env
+env.local
+
+# Local Data and large TSV files
+data/
+spd_complete_training copy.tsv
+spd_complete_training.tsv
+spd_initial_training.tsv
+
+notebooks/signal_hits.tsv
+
+
+# Model files / Scalers (Machine learning artifacts)
+*.pth
+*.pkl
