@@ -11,7 +11,10 @@ spd_complete_training copy.tsv
 spd_complete_training.tsv
 spd_initial_training.tsv
 
+models/px_py_pz_best_model.pt
+
 notebooks/signal_hits.tsv
+
 
 
 # Model files / Scalers (Machine learning artifacts)
