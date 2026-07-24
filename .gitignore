@@ -14,8 +14,8 @@ spd_initial_training.tsv
 models/px_py_pz_best_model.pt
 
 notebooks/signal_hits.tsv
-
-
+notebooks/Dataset_analysis.ipynb
+notebooks/track_work.ipynb
 
 # Model files / Scalers (Machine learning artifacts)
 *.pth
